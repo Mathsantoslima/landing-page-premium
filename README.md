@@ -302,4 +302,4 @@ Você não pode vender, revender ou redistribuir a skill, no todo ou em parte, c
 
 ## Autor
 
-Feita por Matheus Lima (Math). Histórico de versões em [CHANGELOG.md](CHANGELOG.md).
+Feita por Math Lima (@mathlimasl). Histórico de versões em [CHANGELOG.md](CHANGELOG.md).
