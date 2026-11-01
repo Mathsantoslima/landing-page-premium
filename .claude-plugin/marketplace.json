@@ -1,0 +1,15 @@
+{
+  "name": "math-lima",
+  "description": "Skills do Math Lima para construir páginas de venda com acabamento profissional.",
+  "owner": {
+    "name": "Matheus Lima"
+  },
+  "plugins": [
+    {
+      "name": "landing-page-premium",
+      "source": "./",
+      "description": "Cria, redesenha e audita landing pages de alta conversão, do briefing ao QA no navegador, com regra anti-AI-slop.",
+      "version": "1.0.0"
+    }
+  ]
+}

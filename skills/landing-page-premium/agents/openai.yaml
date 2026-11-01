@@ -1,0 +1,4 @@
+interface:
+  display_name: "Landing page premium"
+  short_description: "Landing pages de alta conversão, sem cara de template"
+  default_prompt: "Use a skill landing-page-premium para criar a landing page do meu negócio. Comece pelo briefing."

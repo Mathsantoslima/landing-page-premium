@@ -1,0 +1,11 @@
+{
+  "name": "landing-page-premium",
+  "version": "1.0.0",
+  "description": "Cria, redesenha e audita landing pages de alta conversão, do briefing ao QA no navegador, com regra anti-AI-slop.",
+  "author": {
+    "name": "Matheus Lima"
+  },
+  "homepage": "https://github.com/Mathsantoslima/landing-page-premium",
+  "repository": "https://github.com/Mathsantoslima/landing-page-premium",
+  "keywords": ["landing-page", "copywriting", "conversao", "design", "acessibilidade", "pt-br"]
+}
